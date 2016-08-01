@@ -1,0 +1,12 @@
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.csprojResolveAssemblyReference.cache
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\CognitiveSoftware.TeamFoundation.Integration.Resources.StringConstants.resources
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.csproj.GenerateResource.Cache
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.pdb
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll.CodeAnalysisLog.xml
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll.lastcodeanalysissucceeded
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.pdb

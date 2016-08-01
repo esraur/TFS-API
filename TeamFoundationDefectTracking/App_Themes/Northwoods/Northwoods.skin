@@ -1,0 +1,3 @@
+<asp:TextBox ForeColor="black" Font-Names="Arial" Font-Size="12px"  runat=server  BorderStyle=Solid BorderColor="lightsteelblue"/>
+<asp:DropDownList Height="22px" ForeColor="black" Font-Names="Arial" Font-Size="11px"  runat=server  BorderStyle=Solid BorderColor="#7B788A"/>
+<asp:Button  Font-Names="Arial" ForeColor="white" BackColor="steelblue" runat=server />

@@ -1,0 +1,95 @@
+
+.title
+{
+	color:#d2691e;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	border-bottom: thin solid #d2691e;
+	margin-bottom:10px;
+}
+.tool
+{
+	color:#4682b4;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:12px;
+}
+
+a.tool
+{
+	text-decoration:none;
+}
+
+a.tool:hover
+{
+	text-decoration:underline;
+}
+
+a
+{
+	font-family: Arial;
+	color: #333399;
+	font-size: 12px;
+	text-decoration: underline;
+}
+a:hover
+{
+	font-family:Arial;
+	color:#d2691e;
+	font-size:12px;
+	text-decoration:underline;	
+}
+
+
+.tableHeader
+{
+	background-image: url('Images/header.jpg' );
+	background-repeat: repeat-x;
+	background-position: bottom bottom;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #d2691e;
+	height: 18px;
+	line-height: 13px;
+	text-align: center;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	background-color: #DEE9F6;
+}
+
+.dataGrid, .alternatingDataGrid
+{
+	font-family: Arial;
+	font-size:12px;
+	color: black;
+	line-height:13px;
+	text-align:left;
+	vertical-align:top;
+}
+
+.alternatingDataGrid
+{
+	background-color: #f5f5dc;
+}
+
+
+.label
+{
+	color:#d2691e;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	vertical-align:top;
+}
+
+.note
+{
+	color:#d2691e;
+	font-family:Arial;
+	font-size:10px;
+	vertical-align:top;
+}
+

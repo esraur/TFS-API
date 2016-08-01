@@ -1,0 +1,39 @@
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.pdb
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll.CodeAnalysisLog.xml
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll.lastcodeanalysissucceeded
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStore.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.Cache.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.RuleEngine.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\CognitiveSoftware.TeamFoundation.Integration.Resources.StringConstants.resources
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\TeamFoundationTFSApi.csproj.GenerateResource.Cache
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.dll
+C:\Users\olgac.ocek\Desktop\TeamFoundationDefectTracking\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.pdb
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.pdb
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll.CodeAnalysisLog.xml
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\TeamFoundationDefectTracking.dll.lastcodeanalysissucceeded
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.Client.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.Common.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.Controls.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\System.DirectoryServices.AccountManagement.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\System.DirectoryServices.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\System.DirectoryServices.Protocols.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\System.Net.Http.Formatting.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\System.Web.Http.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.Common.xml
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.Controls.xml
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\System.Net.Http.Formatting.xml
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\System.Web.Http.xml
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\bin\Microsoft.WITDataStore.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\TeamFoundationTFSApi.csprojResolveAssemblyReference.cache
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\CognitiveSoftware.TeamFoundation.Integration.Properties.Resources.resources
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\CognitiveSoftware.TeamFoundation.Integration.Resources.EN.resources
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\CognitiveSoftware.TeamFoundation.Integration.Resources.StringConstants.resources
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\CognitiveSoftware.TeamFoundation.Integration.Resources.TR.resources
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\TeamFoundationTFSApi.csproj.GenerateResource.Cache
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.dll
+C:\Projects\BIMAR STAJ PROJELERI (BSP)\2015\Yaz Dönemi\Devreye Alım\TFS API\TeamFoundationDefectTracking\obj\Debug\TeamFoundationDefectTracking.pdb
